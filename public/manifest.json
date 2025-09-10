@@ -1,0 +1,11 @@
+{
+  "short_name": "CreativeHub",
+  "name": "CreativeHub – Video & Social Content Agency",
+  "icons": [
+    { "src": "/favicon.ico", "type": "image/x-icon", "sizes": "32x32" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
